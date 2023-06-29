@@ -27,7 +27,7 @@ export const RecipeListPage = ({ clickFn }) => {
   return (
     <>
       <Center h="30vh" flexDir="column">
-        <Heading mb={"7vh"}>Recipe index</Heading>
+        <Heading mb={"7vh"}>RecipeList</Heading>
         <Input
           onChange={handleChange}
           border={"2px"}
